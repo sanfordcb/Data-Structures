@@ -70,7 +70,7 @@ Graph.prototype.forEachNode = function(cb){
  hasEdge: O(n)
  addEdge: O(1)
  removeEdge: O(n)
- forEachNode: O(n)A
+ forEachNode: O(n)
  */
 
 
